@@ -10,4 +10,8 @@
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/couscousdude/couscousdude/discussions/new)!
 -   :key: GPG key: [`865658ED1FE61EC3`](https://github.com/couscousdude.gpg)
 
+<picture>
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=couscousdude&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=This%20Month's%20Stats&layout=compact">
+</picture>
+
 ---

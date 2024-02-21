@@ -31,6 +31,8 @@
 <img height="200px" src="https://static.fsf.org/nosvn/images/badges/fsfs_icons_beige-bg.png"></img>
 <img height="200px" src="https://static.fsf.org/nosvn/fsf35/fsf35image.png"></img>
 <img height="200px" align="top" src="http://gnu.ist.utl.pt/graphics/bokma-emacs.png"></img>
+<img height="200px" align="top" src="https://static.fsf.org/nosvn/appeal2020/fall/2-founding.png"></img>
+
 
 ---
 

@@ -25,12 +25,12 @@
 <img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" align="top"></img>
 <img src="https://static.fsf.org/nosvn/associate/crm/243302.png" align="top"></img>
 
+<img width="400px" align="top" src="https://www.gnu.org/graphics/gnubanner-alt.png"></img>
 <img height="200px" src="https://static.fsf.org/nosvn/images/badges/i-support-fs_gray-bg.png" align="top"></img>
 <img height="200px" src="https://github.com/couscousdude/couscousdude/blob/main/assets/powered_ascii_gray-bg.png"></img>
 <img height="200px" src="https://static.fsf.org/nosvn/images/badges/fsfs_icons_beige-bg.png"></img>
 <img height="200px" src="https://static.fsf.org/nosvn/fsf35/fsf35image.png"></img>
-<img width="200px" align="top" src="http://gnu.ist.utl.pt/graphics/bokma-emacs.png"></img>
-<img width="400px" align="top" src="https://www.gnu.org/graphics/gnubanner-alt.png"></img>
+<img height="200px" align="top" src="http://gnu.ist.utl.pt/graphics/bokma-emacs.png"></img>
 
 ---
 

@@ -1,22 +1,44 @@
-## Hi there 👋
+## Hi there, I'm Youwen 👋
 
-<table>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=couscousdude&theme=dark&show_icons=true">
-        <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=couscousdude&show_icons=true">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=couscousdude&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=This%20Month's%20Stats&layout=compact">
-        <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=couscousdude&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=This%20Month's%20Stats&layout=compact">
-    </picture>
-</table>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=couscousdude&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=couscousdude&show_icons=true">
+</picture>
 
--   🖥️ Hacker in TypeScript / React / Svelte / Rust / Jank
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=couscousdude&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=This%20Month's%20Stats&layout=compact">
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=couscousdude&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=This%20Month's%20Stats&layout=compact">
+</picture>
+
+-   🖥️ Hacker in TypeScript / Rust / Python
 -   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [VS Code](https://code.visualstudio.com/) / [neovim](https://neovim.io/) / [Warp](https://www.warp.dev/) / [Firefox](https://www.mozilla.org/firefox/)
 -   :thought_balloon: Ask me anything on Discord @couscousdude!
 -   :key: GPG key: [`865658ED1FE61EC3`](https://github.com/couscousdude.gpg)
+
+<img src="https://github.com/couscousdude/couscousdude/blob/main/assets/powered-by-debian.gif" align="top"></img>
+<img src="https://www.gnu.org/graphics/gnubanner-2.png" align="top"></img>
+<img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" align="top"></img>
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" align="top"></img>
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" align="top"></img>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="top"></img>
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" align="top"></img>
+<img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" align="top"></img>
+<img src="https://static.fsf.org/nosvn/associate/crm/243302.png" align="top"></img>
+
+<img height="200px" src="https://static.fsf.org/nosvn/images/badges/i-support-fs_gray-bg.png" align="top"></img>
+<img height="200px" src="https://github.com/couscousdude/couscousdude/blob/main/assets/powered_ascii_gray-bg.png"></img>
+<img height="200px" src="https://static.fsf.org/nosvn/images/badges/fsfs_icons_beige-bg.png"></img>
+<img height="200px" src="https://static.fsf.org/nosvn/fsf35/fsf35image.png"></img>
+<img width="200px" align="top" src="http://gnu.ist.utl.pt/graphics/bokma-emacs.png"></img>
+<img width="400px" align="top" src="https://www.gnu.org/graphics/gnubanner-alt.png"></img>
 
 ---
 
 <img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only">
 <img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only">
+
+---
+
+<img width="100%" src="https://static.fsf.org/nosvn/appeal2023/fall/banner.png"></img>
+<img width="100%" src="https://static.fsf.org/nosvn/images/badges/Spring19-Fiefdom.png"></img>
+<img width="100%" align="top" src="https://static.fsf.org/nosvn/images/badges/Spring19_fsf_dark_age_esp_2.png"></img>

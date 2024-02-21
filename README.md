@@ -17,5 +17,6 @@
 -   :key: GPG key: [`865658ED1FE61EC3`](https://github.com/couscousdude.gpg)
 
 ---
-<img width="45%" align="left" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only">
-<img width="45%" align="left" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only">
+
+<img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only">
+<img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only">

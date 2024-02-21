@@ -15,6 +15,9 @@
 -   :thought_balloon: Ask me anything on Discord @couscousdude!
 -   :key: GPG key: [`865658ED1FE61EC3`](https://github.com/couscousdude.gpg)
 
+---
+
+<img width="400px" align="top" src="https://www.gnu.org/graphics/gnubanner-alt.png"></img>
 <img src="https://github.com/couscousdude/couscousdude/blob/main/assets/powered-by-debian.gif" align="top"></img>
 <img src="https://www.gnu.org/graphics/gnubanner-2.png" align="top"></img>
 <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" align="top"></img>
@@ -25,7 +28,11 @@
 <img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" align="top"></img>
 <img src="https://static.fsf.org/nosvn/associate/crm/243302.png" align="top"></img>
 
-<img width="400px" align="top" src="https://www.gnu.org/graphics/gnubanner-alt.png"></img>
+<img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only">
+<img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only">
+
+---
+
 <img height="200px" src="https://static.fsf.org/nosvn/images/badges/i-support-fs_gray-bg.png" align="top"></img>
 <img height="200px" src="https://github.com/couscousdude/couscousdude/blob/main/assets/powered_ascii_gray-bg.png"></img>
 <img height="200px" src="https://static.fsf.org/nosvn/images/badges/fsfs_icons_beige-bg.png"></img>
@@ -33,11 +40,6 @@
 <img height="200px" align="top" src="http://gnu.ist.utl.pt/graphics/bokma-emacs.png"></img>
 <img height="200px" align="top" src="https://static.fsf.org/nosvn/appeal2020/fall/2-founding.png"></img>
 
-
----
-
-<img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only">
-<img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only">
 
 ---
 

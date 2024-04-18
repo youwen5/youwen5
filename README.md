@@ -7,13 +7,11 @@
 
 <img width="50%" align="right" src="https://wakatime.com/share/@018dc5b8-ba5a-4572-a38a-b526d1b28240/27538e67-922d-4b1f-8a7c-79f3cac90b5c.svg#gh-dark-mode-only">
 
--   🖥️ Hacker in TypeScript / Rust / Python
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [VS Code](https://code.visualstudio.com/) / [neovim](https://neovim.io/) / [Warp](https://www.warp.dev/) / [Firefox](https://www.mozilla.org/firefox/)
--   :thought_balloon: Ask me anything on Discord @couscousdude!
--   :key: GPG key: [`865658ED1FE61EC3`](https://github.com/couscousdude.gpg)
+- Rust, Typescript, Svelte
+- Arch
+- Neovim
 
-
-View my website at [🔗 youwen.dev](https://youwen.dev)
+![](https://moolenaar.net/vim_anim.gif)
 
 ---
 

@@ -11,7 +11,7 @@
 - Arch
 - Neovim
 
-<a href="https://www.vim.org">![](https://moolenaar.net/vim_anim.gif)</a>
+<a href="https://www.vim.org" target="_blank">![](https://moolenaar.net/vim_anim.gif)</a>
 
 ---
 

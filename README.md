@@ -19,18 +19,11 @@
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" align="top"></img>
 
 ---
-
-<img width="400px" align="top" src="https://www.gnu.org/graphics/gnubanner-alt.png"></img>
+<img height="200px" src="https://static.fsf.org/nosvn/images/badges/i-support-fs_gray-bg.png" align="top"></img>
 <img src="https://github.com/couscousdude/couscousdude/blob/main/assets/powered-by-debian.gif" align="top"></img>
-<img src="https://www.gnu.org/graphics/gnubanner-2.png" align="top"></img>
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" align="top"></img>
-
-<img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" align="top"></img>
-<img src="https://static.fsf.org/nosvn/associate/crm/243302.png" align="top"></img>
 
 <img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only">
 <img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only">
 
 ---
 
-<img height="200px" src="https://static.fsf.org/nosvn/images/badges/i-support-fs_gray-bg.png" align="top"></img>

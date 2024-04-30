@@ -7,7 +7,7 @@
 
 <img width="50%" align="right" src="https://wakatime.com/share/@018dc5b8-ba5a-4572-a38a-b526d1b28240/27538e67-922d-4b1f-8a7c-79f3cac90b5c.svg#gh-dark-mode-only">
 
-- I mainly program in Rust, TypeScript, sometimes Python, and sometimes Julia.
+- I program in Rust, TypeScript, and sometimes Python or Julia.
 - For web development, I prefer [Svelte](https://svelte.dev/).
 - [Neovim](https://github.com/couscousdude/neovim-dots) is my current editor of choice. Also partial to VS Code.
 

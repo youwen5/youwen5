@@ -2,7 +2,7 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=youwen5&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=couscousdude&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=youwen5&show_icons=true">
 </picture>
 
 <img width="50%" align="right" src="https://wakatime.com/share/@018dc5b8-ba5a-4572-a38a-b526d1b28240/27538e67-922d-4b1f-8a7c-79f3cac90b5c.svg#gh-dark-mode-only">
@@ -20,10 +20,10 @@
 
 ---
 <img height="200px" src="https://static.fsf.org/nosvn/images/badges/i-support-fs_gray-bg.png" align="top"></img>
-<img src="https://github.com/couscousdude/couscousdude/blob/main/assets/powered-by-debian.gif" align="top"></img>
+<img src="https://github.com/youwen5/youwen5/blob/main/assets/powered-by-debian.gif" align="top"></img>
 
-<img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only">
-<img align="center" src="https://github.com/couscousdude/couscousdude/blob/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only">
+<img align="center" src="https://github.com/youwen5/youwen5/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only">
+<img align="center" src="https://github.com/youwen5/youwen5/blob/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only">
 
 ---
 

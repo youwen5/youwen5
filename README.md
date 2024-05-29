@@ -1,7 +1,7 @@
 ## Hi there, I'm Youwen 👋
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=couscousdude&theme=dark&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=youwen5&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=couscousdude&show_icons=true">
 </picture>
 

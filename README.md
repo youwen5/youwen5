@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="top"></img>
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" align="top"></img>
 
+<a href="https://www.last.fm/user/couscousdude"><img src="https://lastfm-recently-played.vercel.app/api?user=couscousdude" height="auto" width="350px"/></a>
+
 ---
 <img height="200px" src="https://static.fsf.org/nosvn/images/badges/i-support-fs_gray-bg.png" align="top"></img>
 <img src="https://github.com/youwen5/youwen5/blob/main/assets/powered-by-debian.gif" align="top"></img>

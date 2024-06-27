@@ -1,6 +1,6 @@
 ## Hi there, I'm Youwen 👋
 
-[Skip to projects](https://github.com/youwen5/#projects)
+[Skip down to repositories](https://github.com/youwen5/#projects)
 
 ---
 
@@ -38,4 +38,4 @@ I'm a staunch supporter of Free Software - that is, software which is Free as in
 ![](https://static.fsf.org/nosvn/appeal2024/GIMP.png)
 
 ---
-## Projects
+## Repositories

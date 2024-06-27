@@ -8,6 +8,10 @@
     <a href="https://www.last.fm/user/couscousdude"><img src="https://lastfm-recently-played.vercel.app/api?user=couscousdude" height="auto" width="350px" align="right" /></a>
 
 </picture>
+
+In my free time, I like to do math and code sometimes. My primary occupation, of course, is
+configuring my sprawling Arch Linux system and Neovim setup. This takes up the vast majority of my time.
+
 I formerly did web development before I realized that the internet was pure bloat and so I excised it from my life.
 Now, I'm a recovering TypeScript Tommy trying to learn Haskell and Category Theory.
 When I'm not doing that, I occasionally write actual code.

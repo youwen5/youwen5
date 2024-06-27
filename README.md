@@ -16,7 +16,7 @@ This is because Haskell is far too intellectual to be used for actual software.
 Haskell programs exist purely in the [noosphere](https://en.wikipedia.org/wiki/Noosphere) as the real world is not nearly pure enough.
 Therefore, Rust is my language of choice for hacking.
 
-I also know C, Python, and Go. These language are also suitable for hacking, and together with Rust and Haskell cover the majority of software use cases; however I seldom create projects with them as they do not satisfy my desire to turn every programming discussion into a philosophical one about abstract mathematics.
+I also know C, Python, and Go. These languages are also suitable for hacking, and together with Rust and Haskell cover the majority of software use cases; however I seldom create projects with them as they do not satisfy my desire to turn every programming discussion into a philosophical one about abstract mathematics.
 
 <a href="https://www.vim.org" target="_blank">![](https://moolenaar.net/vim_anim.gif)</a>
 

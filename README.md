@@ -38,4 +38,4 @@ I'm a staunch supporter of Free Software - that is, software which is Free as in
 ![](https://static.fsf.org/nosvn/appeal2024/GIMP.png)
 
 ---
-
+## Projects

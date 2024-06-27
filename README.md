@@ -1,6 +1,6 @@
 ## Hi there, I'm Youwen 👋
 
-[Skip down to repositories](https://github.com/youwen5/#repositories)
+[Skip down to repositories](https://github.com/youwen5#repositories)
 
 ---
 

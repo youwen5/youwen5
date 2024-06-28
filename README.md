@@ -9,7 +9,7 @@
 
 </picture>
 
-I'm Youwen. You can visit me at [youwen.dev](https://youwen.dev) or [at my (currently sparse) blog](https://blog.youwen.dev). 
+I'm Youwen. You can visit me at [my website](https://youwen.dev) or [at my (currently sparse) blog](https://blog.youwen.dev). 
 
 I do math and sometimes code in my free time.
 My primary occupation, of course, is ricing my sprawling Arch Linux system and Neovim setup. This takes up the vast majority of my time.

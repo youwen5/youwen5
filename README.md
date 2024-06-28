@@ -1,4 +1,4 @@
-## Hi there, I'm Youwen 👋
+## Hi there 🦀
 
 [Skip down to repositories](https://github.com/youwen5#repositories)
 
@@ -9,8 +9,10 @@
 
 </picture>
 
-I like to do math and sometimes code in my free time. My primary occupation, of course, is
-ricing my sprawling Arch Linux system and Neovim setup. This takes up the vast majority of my time.
+I'm Youwen. You can visit me at [youwen.dev](https://youwen.dev) or [at my (currently sparse) blog](https://blog.youwen.dev). 
+
+I do math and sometimes code in my free time.
+My primary occupation, of course, is ricing my sprawling Arch Linux system and Neovim setup. This takes up the vast majority of my time.
 
 I formerly did web development before I realized that the internet was pure bloat and so I excised it from my life.
 Now, I'm a recovering TypeScript addict recently converted to the Church of Haskell and learning category theory.

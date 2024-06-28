@@ -20,7 +20,7 @@ When I'm not doing that, I occasionally actually write code.
 
 You may notice that most of my projects are written in Rust or other lesser languages, and not Haskell.
 This is because Haskell is far too intellectual to be used for actual software. 
-Haskell programs exist purely in the [noosphere](https://en.wikipedia.org/wiki/Noosphere) as the real world is not nearly pure enough.
+Haskell programs exist purely in the [noösphere](https://en.wikipedia.org/wiki/Noosphere) as the real world is not nearly pure enough.
 Therefore, Rust is my language of choice for hacking.
 
 I'm also somewhat familiar with C, Python, and Go. These languages are also suitable for hacking, and together with Rust and Haskell

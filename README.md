@@ -9,19 +9,21 @@
 
 </picture>
 
-In my free time, I like to do math and code sometimes. My primary occupation, of course, is
+I like to do math and sometimes code in my free time. My primary occupation, of course, is
 configuring my sprawling Arch Linux system and Neovim setup. This takes up the vast majority of my time.
 
 I formerly did web development before I realized that the internet was pure bloat and so I excised it from my life.
-Now, I'm a recovering TypeScript Tommy trying to learn Haskell and Category Theory.
-When I'm not doing that, I occasionally write actual code.
+Now, I'm a recovering TypeScript addict recently converted to the Church of Haskell and learning category theory.
+When I'm not doing that, I occasionally actually write code.
 
-You may notice that most of my projects are written in Rust, not Haskell.
+You may notice that most of my projects are written in Rust or other lesser languages, and not Haskell.
 This is because Haskell is far too intellectual to be used for actual software. 
 Haskell programs exist purely in the [noosphere](https://en.wikipedia.org/wiki/Noosphere) as the real world is not nearly pure enough.
 Therefore, Rust is my language of choice for hacking.
 
-I also know C, Python, and Go. These languages are also suitable for hacking, and together with Rust and Haskell cover the majority of software use cases; however I seldom create projects with them as they do not satisfy my desire to turn every programming discussion into a philosophical one about abstract mathematics.
+I'm also somewhat familiar with C, Python, and Go. These languages are also suitable for hacking, and together with Rust and Haskell
+cover the vast majority of software use cases. However, I seldom create projects with them as they do not satisfy my desire to derail every programming
+discussion into a philosophical one about abstract mathematics.
 
 I'm a staunch supporter of Free Software - that is, software which is Free as in Freedom and respects the [four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html#four-freedoms).
 

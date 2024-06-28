@@ -10,7 +10,7 @@
 </picture>
 
 I like to do math and sometimes code in my free time. My primary occupation, of course, is
-configuring my sprawling Arch Linux system and Neovim setup. This takes up the vast majority of my time.
+ricing my sprawling Arch Linux system and Neovim setup. This takes up the vast majority of my time.
 
 I formerly did web development before I realized that the internet was pure bloat and so I excised it from my life.
 Now, I'm a recovering TypeScript addict recently converted to the Church of Haskell and learning category theory.

@@ -9,25 +9,33 @@
 
 </picture>
 
-I'm Youwen. You can visit me at [my website](https://youwen.dev) or [at my (currently sparse) blog](https://blog.youwen.dev). 
+I'm Youwen. You can visit me at [my website](https://youwen.dev) or
+[at my (currently sparse) blog](https://blog.youwen.dev).
 
-I do math and sometimes code in my free time.
-My primary occupation, of course, is ricing my sprawling Arch Linux system and Neovim setup. This takes up the vast majority of my time.
+I do math and sometimes code in my free time. My primary occupation, of course,
+is ricing my sprawling Arch Linux system and Neovim setup. This takes up the
+vast majority of my time.
 
-I formerly did web development before I realized that the internet was pure bloat and so I excised it from my life.
-Now, I'm a recovering TypeScript addict recently converted to the Church of Haskell and learning category theory.
-When I'm not doing that, I occasionally actually write code.
+I formerly did web development before I realized that the internet was pure
+bloat and so I excised it from my life. Now, I'm a recovering TypeScript addict
+recently converted to the Church of Haskell and learning category theory. When
+I'm not doing that, I occasionally actually write code.
 
-You may notice that most of my projects are written in Rust or other lesser languages, and not Haskell.
-This is because Haskell is far too intellectual to be used for actual software. 
-Haskell programs exist purely in the [noösphere](https://en.wikipedia.org/wiki/Noosphere) as the real world is not nearly pure enough.
-Therefore, Rust is my language of choice for hacking.
+You may notice that most of my projects are written in Rust or other lesser
+languages, and not Haskell. This is because Haskell is far too intellectual to
+be used for actual software. Haskell programs exist purely in the
+[noösphere](https://en.wikipedia.org/wiki/Noosphere) as the real world is not
+nearly pure enough. Therefore, Rust is my language of choice for hacking.
 
-I'm also somewhat familiar with C, Python, and Go. These languages are also suitable for hacking, and together with Rust and Haskell
-cover the vast majority of software use cases. However, I seldom create projects with them as they do not satisfy my desire to derail every programming
-discussion into a philosophical one about abstract mathematics.
+I'm also somewhat familiar with C, Python, and Go. These languages are also
+suitable for hacking, and together with Rust and Haskell cover the vast majority
+of software use cases. However, I seldom create projects with them as they do
+not satisfy my desire to derail every programming discussion into a
+philosophical one about abstract mathematics.
 
-I'm a staunch supporter of Free Software - that is, software which is Free as in Freedom and respects the [four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html#four-freedoms).
+I'm a staunch supporter of Free Software - that is, software which is Free as in
+Freedom and respects the
+[four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html#four-freedoms).
 
 <a href="https://www.vim.org" target="_blank">![](https://moolenaar.net/vim_anim.gif)</a>
 
@@ -46,4 +54,5 @@ I'm a staunch supporter of Free Software - that is, software which is Free as in
 ![](https://static.fsf.org/nosvn/appeal2024/GIMP.png)
 
 ---
+
 ## Repositories

@@ -13,7 +13,7 @@ I'm Youwen. You can visit me at [my website](https://youwen.dev) or
 [at my (currently sparse) blog](https://blog.youwen.dev).
 
 I do math and sometimes code in my free time. My primary occupation, of course,
-is ricing my sprawling Arch Linux system and Neovim setup. This takes up the
+is ricing my sprawling NixOS configuration and Neovim setup. This takes up the
 vast majority of my time.
 
 I formerly did web development before I realized that the internet was pure
@@ -36,6 +36,18 @@ philosophical one about abstract mathematics.
 I'm a staunch supporter of Free Software - that is, software which is Free as in
 Freedom and respects the
 [four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html#four-freedoms).
+
+> After many attempts, I have finally managed to get my system to run from a nix
+> flake. I feel as though I am at the pinnacle of system configuration, staring
+> down at all the normies running arch installs below. Whats a Gentoo? sounds
+> like a waste of cpu resources. If nix configurations can be likened to
+> distros, then I have the power to build an entire distribution from a single
+> short command. All my settings, my apps, my 6gbs of lutris & steam... they can
+> all be installed from a single git repository on any computer of my choosing.
+> I... No, We have reached the elevator to Olympus and sat upon the seats of the
+> Gods.
+>
+> No one man should have all this power.
 
 <a href="https://www.vim.org" target="_blank">![](https://moolenaar.net/vim_anim.gif)</a>
 

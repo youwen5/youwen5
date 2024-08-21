@@ -12,7 +12,7 @@
 I'm Youwen. You can visit me at [my website](https://youwen.dev) or
 [at my (currently sparse) blog](https://blog.youwen.dev).
 
-I do math and sometimes code in my free time. My primary occupation, of course,
+I sometimes code in my free time. My primary occupation, of course,
 is ricing my sprawling NixOS configuration and Neovim setup. This takes up the
 vast majority of my time.
 
@@ -26,16 +26,6 @@ languages, and not Haskell. This is because Haskell is far too intellectual to
 be used for actual software. Haskell programs exist purely in the
 [noösphere](https://en.wikipedia.org/wiki/Noosphere) as the real world is not
 nearly pure enough. Therefore, Rust is my language of choice for hacking.
-
-I'm also somewhat familiar with C, Python, and Go. These languages are also
-suitable for hacking, and together with Rust and Haskell cover the vast majority
-of software use cases. However, I seldom create projects with them as they do
-not satisfy my desire to derail every programming discussion into a
-philosophical one about abstract mathematics.
-
-I'm a staunch supporter of Free Software - that is, software which is Free as in
-Freedom and respects the
-[four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html#four-freedoms).
 
 > After many attempts, I have finally managed to get my system to run from a nix
 > flake. I feel as though I am at the pinnacle of system configuration, staring

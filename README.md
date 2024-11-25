@@ -4,7 +4,7 @@
 
 ---
 
-![FreeBSD](./assets/freebsd.gif)
+[![FreeBSD](./assets/freebsd.gif)](https://www.freebsd.org/)
 
 I'm Youwen. You can visit me at [my website](https://youwen.dev) or
 [at my (currently sparse) blog](https://blog.youwen.dev).

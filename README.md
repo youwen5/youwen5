@@ -4,10 +4,7 @@
 
 ---
 
-<picture>
-    <a href="https://www.last.fm/user/couscousdude"><img src="https://lastfm-recently-played.vercel.app/api?user=couscousdude" height="auto" width="350px" align="right" /></a>
-
-</picture>
+![FreeBSD](./assets/freebsd.gif)
 
 I'm Youwen. You can visit me at [my website](https://youwen.dev) or
 [at my (currently sparse) blog](https://blog.youwen.dev).

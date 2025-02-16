@@ -19,8 +19,8 @@ both the [system itself](https://nixos.org), which can never mutate state and
 must be rebuilt for modifications to be made, as well as a [purely functional
 userspace](https://github.com/nix-community/home-manager), that keeps programs
 configured precisely as described and managed transactionally. My [text
-editor](https://github.com/youwen5/viminal2) is configured in Fennel Lisp and
-deployed in a purely functional fashion by [Nix](https://nixos.org).
+editor](https://github.com/youwen5/viminal2) is configured in a Lisp called
+Fennel and deployed in a purely functional fashion by [Nix](https://nixos.org).
 
 Additionally, I prefer to work on and with [software that respects my
 freedom](https://www.gnu.org/philosophy/free-sw.en.html). In fact my M1 Macbook

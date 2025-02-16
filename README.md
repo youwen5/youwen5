@@ -41,6 +41,13 @@ Key benefits of my approach to computing include:
   system](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
   from its free source code and a minimal amount of binary seeds.
 
+Behold: a directed acyclic graph of my entire operating system and each of its
+components. This is made possible because a purely functional software
+deployment model necessarily implies the existence of an explicit dependency
+graph that can be realized:
+
+![liminalOS system image](./assets/systemgraph.png)
+
 In the boring real world I study mathematics in
 [paradise](https://media.istockphoto.com/id/486896097/photo/buildings-coastline-pacific-ocean-santa-barbara-california.jpg?s=612x612&w=0&k=20&c=i2fkj-mxGUeS7xIGhW1LU4MiRyCTa9FBzP7ZrHNLLkA=)
 at the University of California, Santa Barbara.

@@ -4,46 +4,54 @@
 
 ---
 
-[![FreeBSD](./assets/freebsd.gif)](https://www.freebsd.org/)
+I'm Youwen. You can visit me at [my website](https://youwen.dev) or [at my
+blog](https://blog.youwen.dev).
 
-I'm Youwen. You can visit me at [my website](https://youwen.dev) or
-[at my (currently sparse) blog](https://blog.youwen.dev).
+I care deeply about systems and how we can make them more reliable and
+resilient. To that end I contribute to various open source projects that aim
+to increase reproducibility and determinism in software systems at scale.
 
-I sometimes code in my free time. My primary occupation, of course,
-is ricing my sprawling NixOS configuration and Neovim setup. This takes up the
-vast majority of my time.
+I run a [purely
+functional](https://en.wikipedia.org/wiki/Purely_functional_programming)
+computing environment that enables the deterministic deployment of software,
+configuration, and infrastructure all the way down the stack. This includes
+both the system itself, which can never mutate state and must be rebuilt for
+modifications to be made, as well as a _purely functional userspace_, that
+keeps programs configured precisely as described and managed transactionally. My
+[text editor](https://github.com/youwen5/viminal2) is configured in Fennel Lisp
+and deployed in a purely functional fashion by [Nix](https://nixos.org).
 
-I formerly did web development before I realized that the internet was pure
-bloat and so I excised it from my life. Now, I'm a recovering TypeScript addict
-recently converted to the Church of Haskell and learning category theory. When
-I'm not doing that, I occasionally actually write code.
+Additionally, I prefer to work on and with [software that respects my
+freedom](https://www.gnu.org/philosophy/free-sw.en.html). In fact my M1 Macbook
+Pro runs an entirely free [reverse engineered graphics and driver
+stack](https://asahilinux.org/), in addition to the entirely free GNU/Linux [operating
+system](https://github.com/youwen5/liminalOS) that runs on all of my computers.
 
-You may notice that most of my projects are written in Rust or other lesser
-languages, and not Haskell. This is because Haskell is far too intellectual to
-be used for actual software. Haskell programs exist purely in the
-[noösphere](https://en.wikipedia.org/wiki/Noosphere) as the real world is not
-nearly pure enough. Therefore, Rust is my language of choice for hacking.
+Key benefits of my approach to computing include:
 
-> After many attempts, I have finally managed to get my system to run from a nix
-> flake. I feel as though I am at the pinnacle of system configuration, staring
-> down at all the normies running arch installs below. Whats a Gentoo? sounds
-> like a waste of cpu resources. If nix configurations can be likened to
-> distros, then I have the power to build an entire distribution from a single
-> short command. All my settings, my apps, my 6gbs of lutris & steam... they can
-> all be installed from a single git repository on any computer of my choosing.
-> I... No, We have reached the elevator to Olympus and sat upon the seats of the
-> Gods.
->
-> No one man should have all this power.
+- fearless hacking: as the system is rebuilt each time it is modified, it can
+  simply transactionally rollback to a previous system generation.
+- text-based and keyboard driven: by keeping the system entirely deterministic
+  (not just technically, but philosophically), I can ditch unwieldy graphical
+  interfaces and build a text-centered user experience.
+- trustless full source bootstrap: secure yourself from malevolent state actors
+  and resist the [KTH](https://wiki.c2.com/?TheKenThompsonHack) by
+  [bootstrapping the entire
+  system](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
+  from its free source code and a minimal amount of binary seeds.
+
+In the boring real world I study mathematics in
+[paradise](https://media.istockphoto.com/id/486896097/photo/buildings-coastline-pacific-ocean-santa-barbara-california.jpg?s=612x612&w=0&k=20&c=i2fkj-mxGUeS7xIGhW1LU4MiRyCTa9FBzP7ZrHNLLkA=)
+at the University of California, Santa Barbara.
 
 <a href="https://www.vim.org" target="_blank">![](https://moolenaar.net/vim_anim.gif)</a>
 
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" align="top"></img>
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" align="top"></img>
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-<img src="https://github.com/youwen5/youwen5/blob/main/assets/powered-by-debian.gif" align="top"></img>
+[![FreeBSD](./assets/freebsd.gif)](https://www.freebsd.org/)
+
 
 ---
 

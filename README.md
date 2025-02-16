@@ -41,6 +41,9 @@ Key benefits of my approach to computing include:
   system](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
   from its free source code and a minimal amount of binary seeds.
 
+![screenshot of desktop](https://github.com/user-attachments/assets/898ccb38-43f6-4f4e-8c9f-18d8465d172a)
+
+
 Behold: a directed acyclic graph of my entire operating system and each of its
 components. This is made possible because a purely functional software
 deployment model necessarily implies the existence of an explicit dependency

@@ -12,7 +12,7 @@ resilient. To that end I contribute to various open source projects that aim
 to increase reproducibility and determinism in software systems at scale.
 
 I run a [purely
-functional](https://en.wikipedia.org/wiki/Purely_functional_programming)
+functional](https://en.wikipedia.org/wiki/Purely_functional_programming) (in the true mathematical sense)
 computing environment that enables the deterministic deployment of software,
 configuration, and infrastructure all the way down the stack. This includes
 both the [system itself](https://nixos.org), which can never mutate state and

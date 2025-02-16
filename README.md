@@ -15,17 +15,18 @@ I run a [purely
 functional](https://en.wikipedia.org/wiki/Purely_functional_programming)
 computing environment that enables the deterministic deployment of software,
 configuration, and infrastructure all the way down the stack. This includes
-both the system itself, which can never mutate state and must be rebuilt for
-modifications to be made, as well as a _purely functional userspace_, that
-keeps programs configured precisely as described and managed transactionally. My
-[text editor](https://github.com/youwen5/viminal2) is configured in Fennel Lisp
-and deployed in a purely functional fashion by [Nix](https://nixos.org).
+both the [system itself](https://nixos.org), which can never mutate state and
+must be rebuilt for modifications to be made, as well as a [purely functional
+userspace](https://github.com/nix-community/home-manager), that keeps programs
+configured precisely as described and managed transactionally. My [text
+editor](https://github.com/youwen5/viminal2) is configured in Fennel Lisp and
+deployed in a purely functional fashion by [Nix](https://nixos.org).
 
 Additionally, I prefer to work on and with [software that respects my
 freedom](https://www.gnu.org/philosophy/free-sw.en.html). In fact my M1 Macbook
 Pro runs an entirely free [reverse engineered graphics and driver
-stack](https://asahilinux.org/), in addition to the entirely free GNU/Linux [operating
-system](https://github.com/youwen5/liminalOS) that runs on all of my computers.
+stack](https://asahilinux.org/). All of my computers run an free GNU/Linux
+[operating system](https://github.com/youwen5/liminalOS).
 
 Key benefits of my approach to computing include:
 

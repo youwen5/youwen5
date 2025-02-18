@@ -25,7 +25,7 @@ Fennel and deployed in a purely functional fashion by [Nix](https://nixos.org).
 Additionally, I prefer to work on and with [software that respects my
 freedom](https://www.gnu.org/philosophy/free-sw.en.html). In fact my M1 Macbook
 Pro runs an entirely free [reverse engineered graphics and driver
-stack](https://asahilinux.org/). All of my computers run an free GNU/Linux
+stack](https://asahilinux.org/). All of my computers run a free GNU/Linux
 [operating system](https://github.com/youwen5/liminalOS).
 
 Key benefits of my approach to computing include:

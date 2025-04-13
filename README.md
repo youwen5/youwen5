@@ -4,12 +4,11 @@
 
 ---
 
-I'm Youwen. You can visit me at [my website](https://youwen.dev) or [at my
-blog](https://blog.youwen.dev).
+I'm Youwen.
 
-I care deeply about systems and how we can make them more reliable and
-resilient. To that end I contribute to various open source projects that aim
-to increase reproducibility and determinism in software systems at scale.
+I seek to create more _reliable_ and _resilient_ systems. To that end I
+contribute to various open source projects that aim to increase reproducibility
+and determinism in software systems at scale.
 
 I run a [purely
 functional](https://en.wikipedia.org/wiki/Purely_functional_programming) (in the true mathematical sense)
@@ -51,9 +50,7 @@ graph that can be realized:
 
 ![liminalOS system image](./assets/systemgraph.png)
 
-In the boring real world I study mathematics in
-[paradise](https://media.istockphoto.com/id/486896097/photo/buildings-coastline-pacific-ocean-santa-barbara-california.jpg?s=612x612&w=0&k=20&c=i2fkj-mxGUeS7xIGhW1LU4MiRyCTa9FBzP7ZrHNLLkA=)
-at the University of California, Santa Barbara.
+In the boring real world I study math at UC Santa Barbara.
 
 <a href="https://www.vim.org" target="_blank">![](https://moolenaar.net/vim_anim.gif)</a>
 

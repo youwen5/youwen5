@@ -1,56 +1,6 @@
 ## Hi there 🦀
 
-[Skip down to repositories](https://github.com/youwen5#repositories)
-
----
-
-I'm Youwen. See also my [personal site](https://web.youwen.dev).
-
-I seek to create more _reliable_ and _resilient_ systems. To that end I
-contribute to various open source projects that aim to increase reproducibility
-and determinism in software systems at scale.
-
-I run a [purely
-functional](https://en.wikipedia.org/wiki/Purely_functional_programming) (in the true mathematical sense)
-computing environment that enables the deterministic deployment of software,
-configuration, and infrastructure all the way down the stack. This includes
-both the [system itself](https://nixos.org), which can never mutate state and
-must be rebuilt for modifications to be made, as well as a [purely functional
-userspace](https://github.com/nix-community/home-manager), that keeps programs
-configured precisely as described and managed transactionally. My [text
-editor](https://github.com/youwen5/viminal2) is configured in a Lisp called
-Fennel and deployed in a purely functional fashion by [Nix](https://nixos.org).
-
-Additionally, I prefer to work on and with [software that respects my
-freedom](https://www.gnu.org/philosophy/free-sw.en.html). In fact my M1 Macbook
-Pro runs an entirely free [reverse engineered graphics and driver
-stack](https://asahilinux.org/). All of my computers run a free GNU/Linux
-[operating system](https://github.com/youwen5/liminalOS).
-
-Key benefits of my approach to computing include:
-
-- fearless hacking: as the system is rebuilt each time it is modified, it can
-  simply transactionally rollback to a previous system generation.
-- text-based and keyboard driven: by keeping the system entirely deterministic
-  (not just technically, but philosophically), I can ditch unwieldy graphical
-  interfaces and build a text-centered user experience.
-- trustless full source bootstrap: secure yourself from malevolent state actors
-  and resist the [KTH](https://wiki.c2.com/?TheKenThompsonHack) by
-  [bootstrapping the entire
-  system](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
-  from its free source code and a minimal amount of binary seeds.
-
-![screenshot of desktop](https://github.com/user-attachments/assets/898ccb38-43f6-4f4e-8c9f-18d8465d172a)
-
-
-Behold: a directed acyclic graph of my entire operating system and each of its
-components. This is made possible because a purely functional software
-deployment model necessarily implies the existence of an explicit dependency
-graph that can be realized:
-
-![liminalOS system image](./assets/systemgraph.png)
-
-In the boring real world I study math at UC Santa Barbara.
+Hi there, I'm Youwen. My README has moved mostly to my [personal site](https://web.youwen.dev).
 
 <a href="https://www.vim.org" target="_blank">![](https://moolenaar.net/vim_anim.gif)</a>
 
@@ -65,9 +15,3 @@ In the boring real world I study math at UC Santa Barbara.
 
 <img align="center" src="https://github.com/youwen5/youwen5/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only">
 <img align="center" src="https://github.com/youwen5/youwen5/blob/main/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only">
-
-<table><tr><td><img src="http://math.jhu.edu/~savitt/GTM/massey.jpg" width=800 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be William S. Massey's <b><i>A Basic Course in Algebraic Topology</i></b>.</p><p> I am intended to serve as a textbook for a course in algebraic topology at the beginning graduate level. The main topics covered are the classification of compact 2-manifolds, the fundamental group, covering spaces, singular homology theory, and singular cohomology theory. These topics are developed systematically, avoiding all unecessary definitions, terminology, and technical machinery. Wherever possible, the geometric motivation behind the various concepts is emphasized. </p><p>Which Springer GTM would <i>you</i> be?  <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>
-
----
-
-## Repositories
